@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Wild Runner Ultra | By Avril Ola</title>
+    <title>Wild Runner Ultra | By Clemiz Studio </title>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <style>
         :root { --primary: #00ff88; --bg: #050505; --danger: #ff3e3e; }
